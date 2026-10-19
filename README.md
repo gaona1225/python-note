@@ -14,4 +14,4 @@ Python study notes from my AI learning journey (notes written in Chinese).
 
 ## How to view
 
-Click any `.ipynb` file to preview it right on GitHub, or run locally with Jupyter Notebook.
+Click any `.ipynb` file to preview it right on GitHub, or run locally with Jupyter Notebook (these notes were written in Jupyter launched via Anaconda Navigator).
